@@ -12,10 +12,10 @@
     <tr>
       <td>
         <ul>
-          <li> 🔭 <b>Automotive System & Software Architect </b></li>
-          <li> 🌱 <b>AI-ML Data Science</b></li>
-          <li> 👯 <b>Yocto based Meta layer for Infotainment Middle layer</b></li>
-          <li> 💬 <b>Multimedia</b></li>          
+          <li> 🔭 <b>With over 19 years of extensive experience in System and Software Architecture for embedded systems and automotive
+products. </b></li>
+          <li> 🌱 <b>I am passionate about leveraging Generative AI and LLMs (Large Language Models) to transform the automotive
+industry, with a strong focus on delivering high-quality, scalable solutions.</b></li>
         </ul>
       </td>
     </tr>
