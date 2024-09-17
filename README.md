@@ -1,13 +1,39 @@
-<div align="center">
-<!-- TODO-IST:START -->
-  🔭 <b>Automotive System & Software Architect </b>
 
-  🌱 <b>AI-ML Data Science</b>
 
-  👯 <b>Yocto based Meta layer for Infotainment Middle layer</b>
 
-  💬 <b>Multimedia</b>
+
+
+
+
+
+
+<p >
   
+<table align="center">
+  <thead>
+    <tr>
+      <td align="left">
+        :information_source: Information
+      </td>
+    </tr>
+  </thead>
+
+  <tbody >
+    <tr>
+      <td>
+        <ul>
+          <li> 🔭 <b>Automotive System & Software Architect </b></li>
+          <li> 🌱 <b>AI-ML Data Science</b></li>
+          <li> 👯 <b>Yocto based Meta layer for Infotainment Middle layer</b></li>
+          <li> 💬 <b>Multimedia</b></li>          
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</p>
+
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhinema&show_icons=true&theme=gotham" alt="abhinema" />
 </details>
@@ -19,7 +45,11 @@
 <div align="center">
 
 
-### Show some ❤️ by starring some of the repositories!
+
+### Github Contribution
+[![GitHub Game of Life](https://github4life.herokuapp.com/abhinema.gif?z=6)](https://github4life.herokuapp.com/abhinema)
+
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/abhishek-nema">
@@ -33,17 +63,14 @@
   </a>
 </div>
 
-### 📫 Reach me at 
-![E-mail](abhinema@gmail.com)
+<img align="center" src="https://komarev.com/ghpvc/?username=abhinema&style=flat-square&color=blue" alt=""/>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/nemaabhi?style=social)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/abhishek-nema/)
 
-[Whatsapp](https://wa.me/919657700717)
-
-### Github Contribution
-[![GitHub Game of Life](https://github4life.herokuapp.com/abhinema.gif?z=6)](https://github4life.herokuapp.com/abhinema)
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/abhinema/count.svg" />
+
+
+### Show some ❤️ by starring some of the repositories!
+
