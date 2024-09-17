@@ -1,19 +1,9 @@
-
-
-
-
-
-
-
-
-
-<p >
   
 <table align="center">
   <thead>
     <tr>
       <td align="left">
-        :information_source: Information
+        :information_source: <b>Information</b>
       </td>
     </tr>
   </thead>
@@ -68,9 +58,5 @@
 
 
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/abhinema/count.svg" />
-
-
-### Show some ❤️ by starring some of the repositories!
+Show some ❤️ by starring some of the repositories!
 
