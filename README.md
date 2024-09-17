@@ -23,8 +23,9 @@
 </table>
 </p>
 
+<div align="center">
 
-
+### Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhinema&show_icons=true&theme=gotham" alt="abhinema" />
 </details>
 </br>
@@ -32,7 +33,6 @@
 <a ref="https://github.com/abhinema/handwritten_digit_recognition_mnist" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinema&repo=handwritten_digit_recognition_mnist&theme=dracula" />
 </a>
-<div align="center">
 
 
 
@@ -40,7 +40,7 @@
 [![GitHub Game of Life](https://github4life.herokuapp.com/abhinema.gif?z=6)](https://github4life.herokuapp.com/abhinema)
 
 
-
+### Links
 <div id="badges">
   <a href="https://www.linkedin.com/in/abhishek-nema">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -58,5 +58,5 @@
 
 
 
-Show some ❤️ by starring some of the repositories!
+#### Show some ❤️ by starring some of the repositories!
 
