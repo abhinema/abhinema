@@ -14,8 +14,7 @@
         <ul>
           <li> 🔭 <b>Close to 20 years of extensive experience in System and Software Architecture for embedded systems and automotive
 products. </b></li>
-          <li> 🌱 <b>I am passionate about leveraging Generative AI and LLMs (Large Language Models) to transform the automotive
-industry, with a strong focus on delivering high-quality, scalable solutions.</b></li>
+          <li> 🌱 <b>I am passionate about leveraging Generative AI and LLMs (Large Language Models) to transform the industry, with a strong focus on delivering high-quality, scalable solutions.</b></li>
         </ul>
       </td>
     </tr>
