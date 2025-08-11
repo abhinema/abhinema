@@ -17,7 +17,7 @@ engineering excellence initiatives. Proven track record of building high-perform
 data-driven process improvements, and delivering scalable solutions for complex automotive systems. Specialized in
 leveraging Generative AI to transform engineering practices while ensuring compliance with automotive standards like
 ASPICE. Experienced in driving engineering maturity assessments and implementing optimization frameworks that
-balance innovation with quality and efficiency.. </b></li>
+balance innovation with quality and efficiency. </b></li>
           <li> 🌱 <b>I am passionate about leveraging Generative AI and LLMs (Large Language Models) to transform the industry, with a strong focus on delivering high-quality, scalable solutions.</b></li>
         </ul>
       </td>
