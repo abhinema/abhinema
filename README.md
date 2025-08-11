@@ -12,8 +12,12 @@
     <tr>
       <td>
         <ul>
-          <li> 🔭 <b>Close to 20 years of extensive experience in System and Software Architecture for embedded systems and automotive
-products. </b></li>
+          <li> 🔭 <b>Strategic engineering leader with 20 years of expertise in automotive software architecture, AI integration, and
+engineering excellence initiatives. Proven track record of building high-performance engineering teams, implementing
+data-driven process improvements, and delivering scalable solutions for complex automotive systems. Specialized in
+leveraging Generative AI to transform engineering practices while ensuring compliance with automotive standards like
+ASPICE. Experienced in driving engineering maturity assessments and implementing optimization frameworks that
+balance innovation with quality and efficiency.. </b></li>
           <li> 🌱 <b>I am passionate about leveraging Generative AI and LLMs (Large Language Models) to transform the industry, with a strong focus on delivering high-quality, scalable solutions.</b></li>
         </ul>
       </td>
